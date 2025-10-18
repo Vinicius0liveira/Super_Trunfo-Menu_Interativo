@@ -1,16 +1,16 @@
 ﻿# Super_Trunfo-Menu_Interativo
 
-🌎 Comparativo de Cartas — Países em C
+🌎 Comparativo de Cartas — Cidades em C
 
-Programa em C que compara duas cartas de países com base em atributos como população, área, PIB, número de pontos turísticos e densidade demográfica.
+Programa em C que compara duas cartas de Cidades com base em atributos como população, área, PIB, número de pontos turísticos e densidade demográfica.
 
 ⚙️ Funcionalidades
 
-Exibe as informações de duas cartas (países).
+Exibe as informações de duas cartas (Cidades).
 
 Permite escolher um atributo para comparar.
 
-Mostra qual país venceu ou se houve empate.
+Mostra qual cidade venceu ou se houve empate.
 
 Usa switch para o menu e if-else para a lógica de comparação.
 
@@ -35,3 +35,4 @@ Execute:
 
 
 Escolha o atributo de comparação no menu.
+
